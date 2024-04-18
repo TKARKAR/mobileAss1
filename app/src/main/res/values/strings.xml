@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KidsLearner</string>
+    <string-array name="learn_options">
+        <item>Select an option</item>
+        <item>Colors</item>
+        <item>Fruits</item>
+    </string-array>
+    <string name="select_option_prompt">Select an option</string>
+</resources>
